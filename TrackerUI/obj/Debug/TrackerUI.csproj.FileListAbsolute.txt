@@ -12,3 +12,6 @@ C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.crea
 C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
 C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
 C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournametViewerForm.resources
+C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\aniba\source\repos\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
