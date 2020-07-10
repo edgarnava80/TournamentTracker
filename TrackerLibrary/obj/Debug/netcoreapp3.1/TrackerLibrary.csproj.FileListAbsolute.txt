@@ -4,6 +4,8 @@ C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netcoreap
 C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csprojAssemblyReference.cache
 C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfoInputs.cache
 C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfo.cs
-C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CoreCompileInputs.cache
 C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.dll
 C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.pdb
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\netcoreapp3.1\Microsoft.Data.ConnectionUI.dll
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CopyComplete
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CoreCompileInputs.cache
