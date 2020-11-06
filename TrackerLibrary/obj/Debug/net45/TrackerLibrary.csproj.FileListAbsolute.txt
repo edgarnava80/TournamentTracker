@@ -1,0 +1,8 @@
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net45\TrackerLibrary.dll
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\bin\Debug\net45\TrackerLibrary.pdb
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net45\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net45\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net45\TrackerLibrary.AssemblyInfo.cs
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net45\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net45\TrackerLibrary.dll
+C:\Users\aniba\source\repos\TournamentTracker\TrackerLibrary\obj\Debug\net45\TrackerLibrary.pdb
